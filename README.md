@@ -1,9 +1,9 @@
 This project analyzes WISH.com summer clothing sales performance.
 
-**Approach:** Independently conducted an open-ended analysis combining multiple variables with minimal guidance.
+**Approach:** Independently conducted an analysis combining multiple variables with minimal guidance, aside from general data visualization best practices.
 
 **Analysis:** Developed visualizations and identified key insights through variable exploration.
 
-**Reflection:** Completed before fully studying visualization best practices; I would now improve clarity and conciseness.
+**Reflection:** This project was completed before fully studying best practices in data visualization. With my current knowledge, I would improve the clarity and conciseness of the presentation.
 
 **Outcome:** Successfully uncovered meaningful insights through independent analysis and creative data exploration.
